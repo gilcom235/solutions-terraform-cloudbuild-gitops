@@ -15,4 +15,3 @@
 
 variable "project" {}
 variable "env" {}
-}
